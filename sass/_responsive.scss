@@ -145,6 +145,7 @@
     .cartes {  
     background-color: #ccd7fc;
     padding: 5rem 0 1rem 1rem;
+    
     }
 
     .autre {
@@ -261,10 +262,7 @@
         height: 45rem;
         display: flex;
         padding: 5rem 13rem 0rem 20rem;
-        transform: translateX(-100%);
-        opacity: 0;
-        transition: transform 0.6s ease-in-out,
-        opacity 0.6s ease-in-out;
+        
     }
 
     .transition2.active {
@@ -279,7 +277,7 @@
 }
 
     .cartes {
-        padding: 5rem 7rem 2rem 21rem;
+        padding: 10rem 7rem 2rem 21rem;
     }
 
     .footer {
